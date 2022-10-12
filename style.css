@@ -1,0 +1,9 @@
+
+#fstInp::placeholder {
+    text-align: center;
+    font-size: larger;
+}
+
+#fstInp::-ms-value {
+    text-align: center;
+}
